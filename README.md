@@ -1,4 +1,6 @@
 # Lab2B-part5-Chongyuan Zhang
-![151025782663132016](https://user-images.githubusercontent.com/114255407/200024828-40fcc5c3-50bc-4b43-b3b7-802b5024d2c6.jpg)
-![702451646608267000](https://user-images.githubusercontent.com/114255407/200024838-5817b0ff-942f-4c32-a4b1-770e56b3af6c.jpg)
-![887700407964399315](https://user-images.githubusercontent.com/114255407/200024939-8e1a4fb7-021f-4e0c-bde1-015c412c5d9f.jpg)
+
+The lab progress pictures are as followed:
+![578805321394082288](https://user-images.githubusercontent.com/114255407/200025815-899f1705-2cc5-4287-bce9-b372f91ae53e.jpg)
+![259197774115722466](https://user-images.githubusercontent.com/114255407/200025834-0f0eb3ff-546b-4848-b1c3-a03572778628.jpg)
+![695496919424492152](https://user-images.githubusercontent.com/114255407/200025850-8d5b1465-3584-41b9-b0ad-dec676b2048e.jpg)
